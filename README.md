@@ -36,7 +36,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPU
-![Screenshot 168](https://github.com/Mourise9342/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/120081893/d5615913-5c12-409e-9876-2d01907249c0)
+![ss5 1](https://github.com/Mourise9342/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/120081893/6b0ba959-5e1f-4533-b7b4-82ac21a8a6ed)
+
 
 
 
